@@ -1,0 +1,10 @@
+<html>
+<head><title>This is a test document.</title></head>
+<body>
+<div>Announcement</div>
+<p>
+I like to code. OR DO I?
+<script type="text/javascript" src="test.js"></script>
+</p>
+</body>
+</html>

@@ -1,0 +1,5 @@
+jQuery.getJSON("https://data.cdc.gov/resource/kgax-qmh9.json");
+
+var x = 94
+
+var y = function(x) {return x%2};
